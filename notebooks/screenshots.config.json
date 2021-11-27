@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Home",
+        "fileName": "Home",
+        "url": "https://make.powerapps.com",
+        "description": "This is the Maker portal."
+    },
+    {
+        "title": "Customer Service App",
+        "fileName": "Model Driven App",
+        "url": "https://org.crm6.dynamics.com/main.aspx?appid=fc4884b2-6119-e811-a94f-000d3ae060f6",
+        "description": "This is the customer service app used by all agents."
+    }
+]
